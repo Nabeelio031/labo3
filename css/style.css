@@ -1,1 +1,44 @@
 
+body{
+    background-image:url("../images/dmitrii-nor-w0ADCqvWIPE-unsplash.jpg");
+    background-size: cover;
+    text-align: center;
+
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    font-style:oblique;
+}
+
+
+
+
+
+
+
+
+table,th,td {
+    border: 2px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+    margin: auto;
+    padding-right: 150px;
+    margin-top: 150px;
+
+}
+th{
+    background-color: turquoise;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+td{
+    background-color: transparent;
+    color:white;
+    font-weight: bold;
+   
+}

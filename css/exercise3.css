@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+table, th, td {
+    border: 2px solid black;
+    
+   
+    
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
